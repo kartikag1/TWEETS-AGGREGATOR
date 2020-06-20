@@ -5,5 +5,5 @@
 ## Live -- https://tweetskartik.netlify.app/
 
 ## Screenshots-
-<img src="screenshots/1.JPEG" />
-<img src="screenshots/2.JPEG" />
+<img src="screenshots/1.JPG" />
+<img src="screenshots/2.JPG" />
